@@ -88,7 +88,7 @@ pip install cvzone mediapipe
 - `numpy` - Array processing
 
 ## 👨‍💻 Developer
-Dibuat dengan ❤️ menggunakan Python & MediaPipe
+Dibuat dengan menggunakan Python 
 
 ## 📄 License
 Free to use - Silakan modifikasi sesuai kebutuhan!
