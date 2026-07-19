@@ -5,8 +5,6 @@ Program Python yang otomatis blur layar kamera ketika kamu menunjukkan gesture p
 ## 🎯 Fitur
 - Deteksi hand gesture peace secara real-time
 - Auto blur effect ketika gesture terdeteksi
-- Tanpa garis-garis tracking yang mengganggu
-- Mudah digunakan
 
 ## 📋 Requirements
 - Python 3.10 atau lebih baru
@@ -22,7 +20,12 @@ python --version
 ```
 
 ### 2. Download Project
-Download atau clone repository ini ke komputer kamu.
+clone repository ini ke komputer kamu.
+
+```bash
+git clone https://github.com/Supervinzz/Foto-Blur.git
+cd Foto-Blur
+```
 
 ### 3. Install Dependencies
 Buka terminal/command prompt di folder project, lalu jalankan:
